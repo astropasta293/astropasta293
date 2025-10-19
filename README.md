@@ -2,7 +2,7 @@
 <h3 align="center">I start projects, and sometimes finish them</h3>
 
 - I’m currently learning **Godot**
-- I know TS and Java
+- I know **TS** and **Java** (Only use java if you do not value your sanity)
   
 Contact Me:
 - Email: **astropasta@atomicmail.io**
